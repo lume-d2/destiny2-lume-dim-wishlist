@@ -1,3 +1,6 @@
+title:Lume personal selection of rolls, highly opinionated.
+description:Thanks DIM and Gunsmith developers for your amazing work.
+
 // Hung Jury (Adept)
 dimwishlist:item=681067419&perks=1840239774,3230963543,247725512,4049631843,2697220197#notes:Lume godroll perks and MW (trigger reload and damage boosts easily)
 dimwishlist:item=681067419&perks=1392496348,3230963543,247725512,4049631843,2697220197#notes:Lume godroll perks and MW (trigger reload and damage boosts easily)
