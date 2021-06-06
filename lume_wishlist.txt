@@ -1,0 +1,30 @@
+// Hung Jury (Adept)
+dimwishlist:item=681067419&perks=1840239774,3230963543,247725512,4049631843,2697220197#notes:Lume godroll perks and MW (trigger reload and damage boosts easily)
+dimwishlist:item=681067419&perks=1392496348,3230963543,247725512,4049631843,2697220197#notes:Lume godroll perks and MW (trigger reload and damage boosts easily)
+dimwishlist:item=681067419&perks=1392496348,3230963543,247725512,4049631843#notes:Lume godroll perks (trigger reload and damage boosts easily)
+dimwishlist:item=681067419&perks=247725512,4049631843#notes:Lume good roll perks (trigger reload and damage boosts easily)
+
+// Hung Jury
+dimwishlist:item=4281371574&perks=4090651448,3177308360,247725512,4049631843,2697220197#notes:Lume godroll perks and MW (trigger reload and damage boosts easily)
+dimwishlist:item=4281371574&perks=4090651448,3177308360,247725512,4049631843,384158423#notes:Lume godroll perks and MW (trigger reload and damage boosts easily)
+dimwishlist:item=4281371574&perks=4090651448,3177308360,247725512,4049631843#notes:Lume godroll perks (trigger reload and damage boosts easily)
+dimwishlist:item=4281371574&perks=247725512,4049631843#notes:Lume good roll perks (trigger reload and damage boosts easily)
+
+// Ignition Code
+dimwishlist:item=304659313&perks=3798852852,3032599245,3161816588,960810156,758092021#notes:Lume godroll perks and MW (blinding is the way; no auto-loading perk? so slide to reload)
+dimwishlist:item=304659313&perks=3798852852,3032599245,3161816588,960810156,1154004463#notes:Lume godroll perks and MW (blinding is the way; no auto-loading perk? so slide to reload)
+dimwishlist:item=304659313&perks=3798852852,3032599245,3161816588,960810156#notes:Lume godroll perks (blinding is the way; no auto-loading perk? so slide to reload)
+dimwishlist:item=304659313&perks=3032599245,3161816588,960810156#notes:Lume good roll perks (blinding is the way; no auto-loading perk? so slide to reload)
+
+// Chroma Rush
+dimwishlist:item=1119734784&perks=4090651448,3177308360,1820235745,3425386926#notes:Lume godroll perks (subsistence and rampage: sustained fire and damage)
+dimwishlist:item=1119734784&perks=1820235745,3425386926#notes: Lume good roll perks (subsistence and rampage: sustained fire and damage)
+dimwishlist:item=1119734784&perks=4090651448,3142289711,1820235745,2726471870#notes:Lume godroll perks (subsistence and tresh: sustained fire and super)
+dimwishlist:item=1119734784&perks=4090651448,3177308360,1820235745,2726471870#notes:Lume godroll perks (subsistence and tresh: sustained fire and super)
+dimwishlist:item=1119734784&perks=1820235745,2726471870#notes: Lume good roll perks (subsistence and tresh: sustained fire and super)
+
+// Chattering Bone
+dimwishlist:item=568515759&perks=4090651448,1885400500,2846385770,2213355989,384158423#notes:Lume godroll perks and MW (far away kills with 16 bullets of boosted damage)
+dimwishlist:item=568515759&perks=4090651448,1885400500,2846385770,2213355989#notes:Lume godroll perks (far away kills with 16 bullets of boosted damage)
+dimwishlist:item=568515759&perks=2846385770,2213355989#notes:Lume good roll perks (far away kills with 16 bullets of boosted damage)
+dimwishlist:item=568515759&perks=2846385770,2213355989#notes:Lume good roll perks (far away kills with 16 bullets of boosted damage)
