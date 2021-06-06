@@ -50,3 +50,8 @@ dimwishlist:item=2222560548&perks=1840239774,3230963543,4071163871,3708227201,38
 dimwishlist:item=2222560548&perks=1840239774,3230963543,4071163871,3708227201#notes:Lume godroll perks (ads clearing)
 dimwishlist:item=2222560548&perks=3230963543,4071163871,3708227201#notes:Lume good roll perks (ads clearing)
 dimwishlist:item=2222560548&perks=4071163871,3708227201,758092021#notes:Lume good roll perks and MW (ads clearing)
+
+dimwishlist:item=2222560548&perks=4090651448,3230963543,1820235745,1683379515,384158423#notes:Lume godroll perks and MW (subsistence, shields disruptor)
+dimwishlist:item=2222560548&perks=4090651448,3230963543,1820235745,1683379515#notes:Lume godroll perks (subsistence, shields disruptor)
+dimwishlist:item=2222560548&perks=3230963543,1820235745,1683379515#notes:Lume good roll perks (subsistence, shields disruptor)
+dimwishlist:item=2222560548&perks=1820235745,1683379515,758092021#notes:Lume good roll perks (subsistence, shields disruptor)
