@@ -48,13 +48,13 @@ dimwishlist:item=568515759&perks=2846385770,2213355989#notes:Lume good roll perk
 dimwishlist:item=568515759&perks=2846385770,2213355989#notes:Lume good roll perks (far away kills with 16 bullets of boosted damage)
 
 // Empty Vessel
-dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,1683379515,186337601#notes:Lume godroll perks and MW (blinding, fire and swap, break shields)
-dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,1683379515#notes:Lume godroll perks (blinding, fire and swap, break shields)
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1683379515,1154004463#notes:Lume godroll perks and MW (blinding, fire and swap, break shields)
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1683379515#notes:Lume godroll perks (blinding, fire and swap, break shields)
 dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515#notes:Lume good roll perks (blinding, fire and swap, break shields)
 
-dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,960810156,186337601#notes:Lume godroll perks and MW (wide blinding, fire and swap)
-dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,960810156#notes:Lume godroll perks (wide blinding, fire and swap)
-dimwishlist:item=4255586669&perks=3032599245,3300816228,960810156#notes:Lume good roll perks (wide blinding, fire and swap)
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391,1154004463#notes:Lume godroll perks and MW (blinding, fire and swap, vorpal)
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391#notes:Lume godroll perks (blinding, fire and swap, vorpal)
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391#notes:Lume good roll perks (blinding, fire and swap, vorpal)
 
 dimwishlist:item=4255586669&perks=3525010810,3301904089,2010801679,1683379515,1154004463#notes:Lume godroll perks and MW (direct hit, warminds, break shields)
 dimwishlist:item=4255586669&perks=3525010810,3301904089,2010801679,1683379515#notes:Lume godroll perks (direct hit, warminds, break shields)
