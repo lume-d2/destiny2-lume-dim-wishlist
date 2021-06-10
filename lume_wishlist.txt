@@ -78,3 +78,14 @@ dimwishlist:item=3037520408&perks=1354429876,1954620775#notes:Lume good roll per
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,2213355989,384158423#notes:Lume godroll perks and MW (clean)
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,2213355989#notes:Lume godroll perks (clean)
 dimwishlist:item=3037520408&perks=4071163871,2213355989#notes:Lume good roll perks (clean)
+
+
+// Truthteller
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515,1154004463#notes:Lume godroll perks and MW (blinding, fire and swap, break shields)
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515#notes:Lume godroll perks (blinding, fire and swap, break shields)
+dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515#notes:Lume good roll perks (blinding, fire and swap, break shields)
+
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,4082225868,1154004463#notes:Lume godroll perks and MW (direct hit, field prep, swash)
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,4082225868#notes:Lume godroll perks (direct hit, field prep, swash)
+dimwishlist:item=1946491241&perks=3301904089,2869569095,4082225868#notes:Lume good roll perks (direct hit, field prep, swash)
+
