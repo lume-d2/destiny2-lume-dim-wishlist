@@ -34,6 +34,9 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,4104185692#not
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679#notes:Lume godroll perks (direct hit; ambitious)
 dimwishlist:item=304659313&perks=3301904089,2010801679#notes:Lume good roll perks (direct hit; ambitious)
 
+dimwishlist:item=304659313&perks=3525010810,409831596,4049631843#notes:Lume godroll perks (quick launch, proximity procs one-for-all before impact, gold for crowds)
+dimwishlist:item=304659313&perks=409831596,4049631843#notes:Lume good roll perks (proximity procs one-for-all before impact, gold for crowds)
+
 // Chroma Rush
 dimwishlist:item=1119734784&perks=4090651448,3177308360,1820235745,3425386926#notes:Lume godroll perks (subsistence and rampage: sustained fire and damage)
 dimwishlist:item=1119734784&perks=1820235745,3425386926#notes: Lume good roll perks (subsistence and rampage: sustained fire and damage)
